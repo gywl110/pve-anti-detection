@@ -1,12 +1,3 @@
-# Li Xiaoliu & DadaShuai666 Project
-
-**Authors:** Li Xiaoliu & DadaShuai666
-
-Chat QQ Groups `25438194` with entry codes `666`
-
-- **Li Xiaolius Bilibili:** [https://space.bilibili.com/565938745](https://space.bilibili.com/565938745)
-- **DadaShuai666s Bilibili:** [https://space.bilibili.com/14205798](https://space.bilibili.com/14205798)
-
 ## Overview
 
 I initially wanted to add the "Li Xiaoliu & DadaShuai666 Project LOGO.jpg" icon to the PVE virtual machine boot screen. Since PVEs KVM and OVMF are separate packages, compiling the OVMF package is necessary to achieve this. Now, I have successfully implemented it through the OVMF package.
