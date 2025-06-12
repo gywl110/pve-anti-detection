@@ -1,13 +1,5 @@
 Language [<a href="README.md">中文</a>] | [<a href="README.en.MD">English</a>] 
 
-李晓流 & 大大帅666 作品
-
-qq群聊天 25438194 进群暗号 666
-
-李晓流 b站地址：https://space.bilibili.com/565938745
-
-大大帅666 b站地址 https://space.bilibili.com/14205798
-
 
 本想把 李晓流 & 大大帅666 作品 LOGO.jpg 这个图标搞进pve虚拟机启动画面的，pve的kvm和ovmf分别是两个包不是同一个包，要编译ovmf包才能实现开机画面，现在通过ovmf包实现了。
 
